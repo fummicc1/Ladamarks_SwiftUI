@@ -1,11 +1,3 @@
-//
-//  SceneDelegate.swift
-//  Landmarks
-//
-//  Created by Fumiya Tanaka on 2019/06/06.
-//  Copyright © 2019 Fumiya Tanaka. All rights reserved.
-//
-
 import UIKit
 import SwiftUI
 
